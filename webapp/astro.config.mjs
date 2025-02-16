@@ -11,6 +11,12 @@ export default defineConfig({
       social: {
         github: "https://github.com/UniPro-tech/Linkle",
       },
+      locales: {
+        root: {
+          label: "日本語",
+          lang: "ja",
+        },
+      },
       sidebar: [
         {
           label: "Guides",
