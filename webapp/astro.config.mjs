@@ -7,9 +7,9 @@ export default defineConfig({
   site: "https://docs.linkle.nnn.uniproject.jp",
   integrations: [
     starlight({
-      title: "My Docs",
+      title: "Linkle公式ドキュメント",
       social: {
-        github: "https://github.com/withastro/starlight",
+        github: "https://github.com/UniPro-tech/Linkle",
       },
       sidebar: [
         {
