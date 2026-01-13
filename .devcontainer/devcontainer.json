@@ -1,6 +1,6 @@
 {
 	"name": "30DaysOf Astro Template",
-	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"image": "mcr.microsoft.com/devcontainers/universal:5",
 
 	"waitFor": "onCreateCommand",
 	"updateContentCommand": "",
